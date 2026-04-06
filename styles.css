@@ -109,8 +109,8 @@ transition: 0.3s ease;
 }
 
 .profile-image {
-  width: 580px;           
-  height: 640px;
+  width: 620px;           
+  height: 690px;
   object-fit: cover;
   border-radius: 0%;
   border: none;
