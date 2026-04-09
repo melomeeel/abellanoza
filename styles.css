@@ -109,8 +109,8 @@ transition: 0.3s ease;
 }
 
 .profile-image {
-  width: 500px;           
-  height: 580px;
+  width: 550px;           
+  height: 610px;
   object-fit: cover;
   border-radius: 0%;
   border: none;
@@ -201,8 +201,8 @@ transition: 0.3s ease;
   }
 
   .profile-image {
-    width: 60px;
-    height: 260px;
+    width: 40px;
+    height: 240px;
   }
 
   .hero-text h1 {
